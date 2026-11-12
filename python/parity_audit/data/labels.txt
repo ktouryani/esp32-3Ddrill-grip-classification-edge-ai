@@ -1,0 +1,5 @@
+held_loose_no_contact
+held_tight_no_contact
+held_with_hard_contact
+held_with_light_contact
+standing_freely

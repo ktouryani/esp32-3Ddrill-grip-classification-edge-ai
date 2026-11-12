@@ -1,0 +1,124 @@
+{
+	"folders": [
+		{
+			"path": "../ADXL345_ESP32_Thesis"
+		},
+		{
+			"name": "Karim_Master_Thesis",
+			"path": "../Karim_Master_Thesis"
+		},
+		{
+			"name": "esp32_lsm6dsox_test",
+			"path": "../esp32_lsm6dsox_test"
+		},
+		{
+			"name": "Esp32_Deployment_Karim",
+			"path": "."
+		},
+		{
+			"name": "Deployment_Debugging",
+			"path": "../Deployment_Debugging"
+		},
+		{
+			"name": "FeedForward_NeuralNetwork",
+			"path": "../FeedForward_NeuralNetwork"
+		},
+		{
+			"name": "Golden_Logger",
+			"path": "../Golden_Logger"
+		},
+		{
+			"name": "Feature_Sanity_check",
+			"path": "../Feature_Sanity_check"
+		},
+		{
+			"name": "Pseudo_label_deployment",
+			"path": "../Pseudo_label_deployment"
+		},
+		{
+			"name": "Offline_runner",
+			"path": "../Offline_runner"
+		},
+		{
+			"name": "Tflite_offlinerunner",
+			"path": "../Tflite_offlinerunner"
+		},
+		{
+			"path": "../esp32_testvec_runner"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"algorithm": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"charconv": "cpp",
+			"chrono": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"compare": "cpp",
+			"complex": "cpp",
+			"concepts": "cpp",
+			"condition_variable": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"netfwd": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"random": "cpp",
+			"ratio": "cpp",
+			"source_location": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"format": "cpp",
+			"fstream": "cpp",
+			"initializer_list": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"numbers": "cpp",
+			"ostream": "cpp",
+			"semaphore": "cpp",
+			"span": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"stop_token": "cpp",
+			"streambuf": "cpp",
+			"text_encoding": "cpp",
+			"thread": "cpp",
+			"cinttypes": "cpp",
+			"typeinfo": "cpp",
+			"variant": "cpp"
+		}
+	}
+}

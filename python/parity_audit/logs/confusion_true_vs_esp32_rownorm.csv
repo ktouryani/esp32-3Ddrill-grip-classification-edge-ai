@@ -1,0 +1,6 @@
+,held_loose_no_contact,held_tight_no_contact,held_with_hard_contact,held_with_light_contact,standing_freely
+held_loose_no_contact,81.67,8.33,5.00,0.00,5.00
+held_tight_no_contact,8.33,91.67,0.00,0.00,0.00
+held_with_hard_contact,0.00,0.00,100.00,0.00,0.00
+held_with_light_contact,0.00,0.00,98.33,1.67,0.00
+standing_freely,3.33,83.33,13.33,0.00,0.00

@@ -1,0 +1,6 @@
+true_label,support,correct,accuracy_%
+held_loose_no_contact,60,48,80.0
+held_tight_no_contact,60,57,95.0
+held_with_hard_contact,60,60,100.0
+held_with_light_contact,60,12,20.0
+standing_freely,60,0,0.0

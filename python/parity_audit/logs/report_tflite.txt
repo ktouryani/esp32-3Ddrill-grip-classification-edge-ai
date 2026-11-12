@@ -1,0 +1,14 @@
+Accuracy: 64.10%
+
+                         precision    recall  f1-score   support
+
+  held_loose_no_contact      0.965     0.682     0.799       888
+  held_tight_no_contact      0.486     0.997     0.653       896
+ held_with_hard_contact      0.458     0.556     0.502       890
+held_with_light_contact      0.969     0.464     0.627       884
+        standing_freely      0.937     0.502     0.653       885
+
+               accuracy                          0.641      4443
+              macro avg      0.763     0.640     0.647      4443
+           weighted avg      0.762     0.641     0.647      4443
+

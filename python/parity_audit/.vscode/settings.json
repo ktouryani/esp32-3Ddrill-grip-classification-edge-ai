@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.txt": "cmake",
+        "xstring": "cpp",
+        "filesystem": "cpp",
+        "fstream": "cpp"
+    }
+}

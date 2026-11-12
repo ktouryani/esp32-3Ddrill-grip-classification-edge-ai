@@ -1,0 +1,7 @@
+jerk_rms
+centroid_norm
+zcr
+crest_factor_amp
+ber_f0
+high_ratio
+bandpower_over_entropy_amp
